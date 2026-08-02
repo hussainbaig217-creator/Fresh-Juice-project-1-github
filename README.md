@@ -1,7 +1,7 @@
 # hero-section Website
 
 ## 🚀 Live Demo
-https://your-project.vercel.app
+https://fresh-juice-project-1-github.vercel.app/
 
 ## 📖 Description
 this is for a hero section design
